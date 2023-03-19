@@ -1,0 +1,11 @@
+ clc
+ close all
+ clear all
+
+ tipSemnal=2;
+ aSemnal=2;
+ fSemnal=1E+3;
+ Np=2;
+ R1=2e+3;
+ r
+ interfata1(tipSemnal,aSemnal,fSemnal,Np,R1,R2)
